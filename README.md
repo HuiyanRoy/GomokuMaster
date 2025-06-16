@@ -21,9 +21,30 @@ Welcome to Gomoku, the classic strategy board game! The game contains the follow
 
 ## How to Run the Game
 
-    Execute the game executables
+1. Clone the Repository
+```bash
+git clone https://github.com/HuiyanRoy/GomokuMaster.git
+cd GomokuMaster
+```
 
-    Select a difficulty level to challenge the AI
+2. Install Dependencies
 
-    Start playing — try to get five in a row before your opponent!
+Check for the package.json file. Run:
+```bash
+npm install
+```
+Or if you prefer Yarn:
+```bash
+yarn install
+```
+This will install all dependencies listed.
 
+3. Start the Development Server
+
+Look for the vite.config.ts or scripts in package.json.
+
+Run:
+```bash
+npm run dev
+```
+This will launch the dev server at http://localhost:5000.
