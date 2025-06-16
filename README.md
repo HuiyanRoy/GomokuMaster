@@ -1,25 +1,25 @@
-* Gomoku Board Game (Built with Replit)
+# Gomoku Board Game (Built with Replit)
 
-** Welcome to Gomoku, the classic strategy board game! The game contains the following features: 
+Welcome to Gomoku, the classic strategy board game! The game contains the following features: 
 
-Interactive Game Board
+### Interactive Game Board
 ![image](https://github.com/user-attachments/assets/ef5b72a9-4c19-40bb-8c24-f185097fdf6d)
 
 
-Multiple AI Difficulty Levels
+### Multiple AI Difficulty Levels
 ![image](https://github.com/user-attachments/assets/1925ade4-7bbd-477c-a97e-ecb80e8871d6)
 
-Game Controls
+### Game Controls
 ![image](https://github.com/user-attachments/assets/4ec32e8e-c01d-4f3b-be34-bd177ad39545)
 
-Game Statistics
+### Game Statistics
 
 ![image](https://github.com/user-attachments/assets/d3628669-81a9-46c8-8aba-0c9760042fb9)
 
-How to Play instructions included
+### How to Play instructions
 ![image](https://github.com/user-attachments/assets/6d2bbc05-2501-4ccb-94cf-d0a73e181d91)
 
-🚀 How to Run the Game
+## How to Run the Game
 
     Execute the game executables
 
