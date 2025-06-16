@@ -27,9 +27,7 @@ git clone https://github.com/HuiyanRoy/GomokuMaster.git
 cd GomokuMaster
 ```
 
-2. Install Dependencies
-
-Check for the package.json file. Run:
+2. Install Dependencies. Check for the package.json file. Run:
 ```bash
 npm install
 ```
@@ -39,9 +37,7 @@ yarn install
 ```
 This will install all dependencies listed.
 
-3. Start the Development Server
-
-Look for the vite.config.ts or scripts in package.json.
+3. Start the Development Server. Look for the vite.config.ts or scripts in package.json.
 
 Run:
 ```bash
