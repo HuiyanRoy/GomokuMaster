@@ -45,3 +45,4 @@ yarn install
 npm run dev
 ```
 > This will launch the dev server at http://localhost:5000.
+> Feel free to try it out and send me any comment or questions!
